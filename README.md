@@ -64,10 +64,4 @@ python -m venv venv
 source venv/bin/activate   # or venv\Scripts\activate on Windows
 pip install -r requirements.txt
 ```
-## Authors
-
-- **Girish Kumar**  
-  GitHub: [@igirishkumar](https://github.com/igirishkumar)  
-  Role: Model architecture, classical ML pipeline, transformer fine-tuning,  
-        text preprocessing, feature engineering, results visualization, README & documentation
 
